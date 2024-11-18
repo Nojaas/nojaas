@@ -1,21 +1,20 @@
-# 👋 Hello, I'm Jason !
+# 👋 Hello, I'm Jason
 
-**Passionate **Front-End Developer** with expertise in **React**, **Vue.js**, **Next.js**, and a variety of modern technologies.**
+A Passionate **Front-End Developer** from **Paris 🇫🇷**
+
+- 💼 Looking for job opportunities in Paris
+- ⚙️ **My go-to stack** React, Next.js, Tailwind, and more
+- 💬 Contact me here [https://www.linkedin.com/in/jason-leroy](https://www.linkedin.com/in/jason-leroy/)
 
 
-- 🌟 Passionate about building intuitive, responsive, and dynamic user interfaces.
-- 💼 Seeking a CDI in Paris to contribute to impactful projects and grow with a talented team.
-- 🌱 Continuously exploring the latest web technologies to enhance user experiences.
-
-
-## 📫 Connect with me
+### 📫 Connect with me
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio%20(Coming%20Soon)-black?style=for-the-badge&logo=dev.to&logoColor=white)](#)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-leroy/)  
 [![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasonleroyle91@gmail.com)  
 
 
-## Skills
+### Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
@@ -44,7 +43,3 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
-
-## 🚀 Projects
-
-- **[Scaly](https://scaly-fr.vercel.app/)** AI-powered image upscaling platform 📸🤖. Enhance your images with cutting-edge technology in just a few clicks!

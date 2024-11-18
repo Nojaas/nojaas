@@ -9,7 +9,7 @@ A Passionate **Front-End Developer** from **Paris 🇫🇷**
 
 ### 📫 Connect with me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio%20(Coming%20Soon)-black?style=for-the-badge&logo=dev.to&logoColor=white)](#)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio%20(Coming%20Soon)-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://jason-leroy.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-leroy/)  
 [![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasonleroyle91@gmail.com)  
 

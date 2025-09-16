@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jason
 
-A Passionate **Front-End Developer** from **Paris 🇫🇷**
+A Passionate **Developer** from **Paris 🇫🇷**
 
 - 💼 Looking for job opportunities in Paris
 - ⚙️ **My go-to stack** React, Next.js, Tailwind, and more

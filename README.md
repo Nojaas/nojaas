@@ -80,10 +80,6 @@
 A modern Kanban project management application with real-time collaboration, drag-and-drop workflows, and full UI customization.  
 **Tech:** Next.js • TypeScript • Prisma • PostgreSQL • Tailwind CSS
 
-### 📧 [Sendflow](soon) • **Coming Soon**
-A scalable marketing automation SaaS for sending and tracking high-volume email/SMS campaigns.  
-**Tech:** Next.js • Tailwind CSS • TypeScript • Node.js • BullMQ • Redis • PostgreSQL • Elasticsearch • AWS
-
 ---
 
 ## 🎯 What Sets Me Apart

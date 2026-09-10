@@ -1,99 +1,54 @@
-<h1 align="center">👋 Hello, I'm Jason</h1>
+<h1 align="center">Hey, I'm Jason 👋</h1>
+
+<h3 align="center">Full-Stack Developer · React · Next.js · Node.js</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20hire-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Paris%2C%20France-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Work-Open%20to%20remote-orange?style=flat-square" />
-</p>
-<h3 align="center">Full-Stack Developer • TypeScript Enthusiast</h3>
-<p align="center">
-  <a href="https://jason-leroy.com">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jason-leroy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jasonleroy.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💡 Who I Am
-
-💻  **Full-Stack Developer with 5+ years building modern web experiences**  
-⚙️  **Specializing in:** React, Next.js, TypeScript & scalable architectures  
-🎯  **Seeking:** Full-time opportunities in Paris 🇫🇷 (open to remote)  
-🔥  **Focused on:** Performance, UX, and code that lasts
-
----
-
-## 🧠 Tech Stack
-
-### Front-End
-<p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=white&style=flat-square" />
-</p>
-
-### Back-End & Database
-<p align="center">
+  <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-### Tooling
-<p align="center">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" />
-</p>
+I build web products with a focus on simplicity, performance, and quality. I enjoy turning complex ideas into clear, reliable, and enjoyable experiences, with attention to both the product and the details behind it.
+
+### 🚀 Projects
+
+* **Pingora** - Asynchronous multi-channel notification service with queues, webhooks, observability and background workers.
+* **[Krono](https://krono-extension.vercel.app/)** - Chrome extension for focused work, Pomodoro, website blocking and productivity stats, with all data stored locally.
+* **[Kanboard](https://kanboardapp.vercel.app/)** - Full-stack Kanban application for visual task management and real-time team collaboration.
+
+More projects and experiments → **[jason-leroy.com](https://jason-leroy.com)**
+
+### 🛠 Stack
+
+TypeScript · React · Next.js · Node.js · PostgreSQL · Prisma · Docker · Redis · Stripe 
+
+🌐 **[Portfolio](https://jason-leroy.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/jason-leroy/)** · 📧 **[Email](mailto:jasonleroy.dev@gmail.com)**
 
 ---
 
-## 🚀 Featured Projects
+<details>
+<summary>🇫🇷 <b>FR</b></summary>
 
-### 📋 [Kanboard](https://kanboardapp.vercel.app/) • **2025**
-A modern Kanban project management application with real-time collaboration, drag-and-drop workflows, and full UI customization.  
-**Tech:** Next.js • TypeScript • Prisma • PostgreSQL • Tailwind CSS
+<br/>
 
----
+🇫🇷 **Version française**
 
-## 🎯 What Sets Me Apart
+Je conçois des produits web avec une attention particulière portée à la simplicité, la performance et la qualité. J’aime transformer des idées complexes en expériences claires, fiables et agréables à utiliser, en accordant autant d’importance au produit qu’aux détails de sa conception.
 
-- 🏗️ **Architecture-first mindset**: I design scalable systems built to last  
-- ⚡ **Performance obsessed**: Every millisecond counts in user experience  
-- 🧪 **Quality advocate**: Clean code, testing, and documentation aren't optional  
-- 📚 **Lifelong learner**: Always exploring new tech and best practices  
+### 🚀 Projets
 
----
+* **Pingora** - Service de notifications asynchrone avec files d’attente, webhooks, observabilité et workers.
+* **[Krono](https://krono-extension.vercel.app/)** - Extension Chrome dédiée à la concentration, Pomodoro, blocage de sites et statistiques de productivité, avec des données entièrement stockées en local.
+* **[Kanboard](https://kanboardapp.vercel.app/)** - Application Kanban full-stack pour la gestion visuelle des tâches et la collaboration en temps réel.
 
-## 📫 Let's Connect
+Plus de projets et expérimentations → **[jason-leroy.com](https://jason-leroy.com)**
 
-Open to **full-time opportunities in Paris** or interesting collaborations  
-on innovative projects.
+### 🛠 Stack
 
-💬 **Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jason-leroy/) or [Email](mailto:jasonleroy.dev@gmail.com)**
+TypeScript · React · Next.js · Node.js · PostgreSQL · Prisma · Docker · Redis · Stripe 
+
+🌐 **[Portfolio](https://jason-leroy.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/jason-leroy/)** · 📧 **[Email](mailto:jasonleroy.dev@gmail.com)**
+</details>
